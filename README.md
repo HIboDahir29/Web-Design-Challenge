@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-# Project Link https://hibodahir29.github.io/Web-Design-Challenge/WebVisualizations/index.html
+# Project Link https://hibodahir29.github.io/Web-Design-Challenge/Web_Visualizations/index.html
 
 Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
